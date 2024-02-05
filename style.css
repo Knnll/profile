@@ -74,6 +74,17 @@ h1 {
   .container {
     width: 500px;
   }
+  h1 {
+    font-size: 25px;
+  }
+  .profil_picture {
+    width: 200px;
+    height: 200px;
+  }
+  .galères_pro {
+    width: 250px;
+    height: 220px;
+  }
 }
 
 @media (max-width: 540px) {
